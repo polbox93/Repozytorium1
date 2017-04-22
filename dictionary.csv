@@ -1,0 +1,15 @@
+function,"A function is a block of organized, reusable code that is used to perform a single, related action", www.tutorialspoint.com
+tuples,"Tuples are sequences, just like lists. The differences between tuples and lists are, the tuples cannot be changed unlike lists and tuples use parentheses, whereas lists use square brackets", www.tutorialspoint.com
+variable,"Variables are nothing but reserved memory locations to store values. This means that when you create a variable you reserve some space in memory.", www.tutorialspoint.com
+argument,"An argument is a value provided to a function when you call it", http://stackoverflow.com
+parameter,"Parameter is data sent to one function from another", "WEB PROGRAMMING" website by USF professor David Wolber
+global variable,"Global variable is a variable defined in the "main" program. A variable is defined the first time it appears on the left-hand-side of an assignment statement", "WEB PROGRAMMING" website by USF professor David Wolber
+local variable,"Local variable is a variable defined within a function. Local variables are temporary, scratch memory. When a function completes, its local variables are de-allocated (they die!)", "WEB PROGRAMMING" website by USF professor David Wolber
+scalar,"Scalar is an atomic single-item value or variable. Integers, floating point numbers, strings, and booleans are types of scalars", "WEB PROGRAMMING" website by USF professor David Wolber
+object,"Multi-item data, such as a Python list. We'll also learn object-oriented programming and how to define objects with named sub-items", "WEB PROGRAMMING" website by USF professor David Wolber
+integer,"An integer is a whole number. An integer is generally stored in 4 bytes, or 32 bits", "WEB PROGRAMMING" website by USF professor David Wolber
+float,"A floating point number is a number with decimal points, e.g., 34.56. A floating point number is stored in 8 bytes", "WEB PROGRAMMING" website by USF professor David Wolber
+character,"A character is a symbol on the keyboard. A character is generally stored in 2 bytes. ASCII and Unicode are protocols for how symbols are mapped to numbers", "WEB PROGRAMMING" website by USF professor David Wolber
+dictionary,"Each key is separated from its value by a colon (:), the items are separated by commas, and the whole thing is enclosed in curly braces. An empty dictionary without any items is written with just two curly braces, like this: {}.", www.tutorialspoint.com
+ascii table,"ASCII stands for American Standard Code for Information Interchange. ASCII code is the numerical representation of a character.", www.asciitable.com
+module, "A module is a Python object with arbitrarily named attributes that you can bind and reference. A module allows you to logically organize your Python code. Grouping related code into a module makes the code easier to understand and use.", www.tutorialspoint.com
